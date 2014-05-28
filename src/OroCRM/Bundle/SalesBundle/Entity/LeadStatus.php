@@ -44,7 +44,7 @@ class LeadStatus
      * Set address type label
      *
      * @param string $label
-     * @return OpportunityStatus
+     * @return LeadStatus
      */
     public function setLabel($label)
     {
